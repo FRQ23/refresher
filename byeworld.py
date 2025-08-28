@@ -334,6 +334,5 @@ result_4 = not False
 
 #print
 
-print(result_4)
-
+print(result_3)
 
