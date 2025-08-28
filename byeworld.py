@@ -314,3 +314,26 @@ elif ingreso_mensual >= 1000:
 
 else:
     print("Eres pobre")
+
+
+#operadores lógicos
+
+
+#AND en el único caso que dará verdader es si los dos son verdaderos, de lo contrario, cualquier otro caso será falso.
+result = True & True
+
+#OR en el único caso que puede dar falso es si los dos son falsos, de lo contrario, cualquier otro caso será verdadero.
+
+result_1= False | False
+
+
+#NOT lo que hace es cambiar la naturaleza, es decir, si es verdadero, lo hace falso y de caso contrario, si es falso lo hace verdadero.
+
+result_3 = not True
+result_4 = not False
+
+#print
+
+print(result_4)
+
+
