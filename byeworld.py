@@ -334,5 +334,8 @@ result_4 = not False
 
 #print
 
-print(result_3)
+#print(result_3)
+
+#Métodos de cadenas
+
 
