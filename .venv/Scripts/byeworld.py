@@ -277,23 +277,3 @@ comparacion = a + b < c
 print(comparacion)
 
 #condicionaless
-
-"""
-if true
-    se ejecuta
-
-
-if false
-    esto no se ejecuta
-
-"""
-
-edad = 1
-
-
-if edad >= 18:
-    print("Eres mayor de edad")
-else:
-    print("Eres menor de edad")
-
-
