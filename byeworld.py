@@ -288,6 +288,9 @@ if false
 
 """
 
+
+#if_else
+
 edad = 1
 
 
@@ -297,3 +300,17 @@ else:
     print("Eres menor de edad")
 
 
+
+#else_if
+
+
+ingreso_mensual = 10000
+
+if ingreso_mensual >= 10000:
+    print("Estás bien en todo el mundo")
+
+elif ingreso_mensual >= 1000:
+    print("Estas bien solo en paises tercermundias")
+
+else:
+    print("Eres pobre")
